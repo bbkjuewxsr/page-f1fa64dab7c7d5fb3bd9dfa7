@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d7be7fcff7bd92e0bdfacabd",
+  "owner": "bbkjuewxsr",
+  "repo": "page-f1fa64dab7c7d5fb3bd9dfa7",
+  "title": "云安快连",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f1fa64dab7c7d5fb3bd9dfa7",
+      "a": "云安快连",
+      "b": "2027官方最新地址导航",
+      "entity": "云安快连",
+      "brand": "云安快连",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dc5ca966f7e28161ddc72c4f281613fcbd79ff9f52b1cd049b4fd7c2a75cf42d",
+      "content": {
+        "primary_entity": "云安快连",
+        "keyword1": "云安快连",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，云安快连提供基础版、旗舰版、团队版三档套餐，分别支持3台、5台、20台设备同时在线，月付与年付均可选择。旗舰版含IPLC专线与全节点原生流媒体解锁，团队版支持企业定制路由与专属客户经理。订阅前先确认设备数量和所需流量，再对照客户端文档完成配置。",
+          "AI_HERO_SUBTITLE": "云安快连，按需选套餐",
+          "AI_HERO_INTRO": "云安快连是一款面向多设备场景的海外网络加速工具，提供基础、旗舰、团队三档订阅。选择时优先看常用设备数量与月流量需求，再匹配线路类型与订阅周期。",
+          "AI_VISUAL_TITLE": "云安快连多设备订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "年付比月付更省订阅成本",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC专线加速",
+          "AI_FEATURES_INTRO": "从设备数量、流量和线路三方面选择云安快连套餐。",
+          "AI_FEATURES_TITLE": "云安快连套餐选择要点",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按常用设备数匹配档位。",
+          "AI_FEATURE_TITLE_2": "按流量周期选",
+          "AI_FEATURE_TEXT_2": "基础版每月100GB，旗舰版300GB，团队版1000GB，年付分别为150元、350元、850元。",
+          "AI_FEATURE_TITLE_3": "按线路需求选",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线适合游戏加速，团队版提供VIP高带宽节点与定制路由。",
+          "AI_CLIENTS_TITLE": "云安快连客户端配置",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，参考订阅导入说明完成配置。",
+          "AI_PLANS_TITLE": "云安快连套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度个人使用，旗舰版兼顾游戏与流媒体，团队版面向多设备协作场景。",
+          "AI_GUIDE_TITLE": "云安快连订阅步骤",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置的三步。",
+          "AI_STEP_TITLE_1": "确认需求",
+          "AI_STEP_TEXT_1": "统计常用设备数量和每月大致流量，判断基础、旗舰或团队版。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端兼容条件，留意同时在线设备数限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "选择月付或年付完成订阅，按客户端文档导入订阅信息并连接节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐再连接",
+          "AI_CLOSING_TEXT": "先确认设备与流量需求，再按客户端文档完成云安快连订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。可按日常流量和设备数量选择。",
+          "AI_FAQ_ANSWER_2": "可以。云安快连支持 Windows、macOS、Android 和 iOS 客户端，导入订阅后即可使用。路由器等设备请参考插件配置说明。",
+          "AI_FAQ_ANSWER_3": "年付方案比按月支付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，均可使用完整订阅周期。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合对视频清晰度和游戏延迟有要求的用户；基础版可解锁基础流媒体。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由和 20 台设备同时在线，并提供专属客户经理服务，适合需要统一管理多台终端的小型团队。",
+          "AI_FAQ_QUESTION_1": "三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "云安快连支持哪些客户端设备？",
+          "AI_FAQ_QUESTION_3": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版适合什么样的使用场景？",
+          "AI_FAQ_QUESTION_5": "团队版适合几个人一起用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jsnjaci.cn",
+    "host": "jsnjaci.cn"
+  },
+  "file_hashes": {
+    "index.html": "6597341c1523a663705a2a56600a2c250bbaa37769bded584bec7cc4bf237124",
+    "sitemap.xml": "9d7f43810136889b665c49930271a22959c1339fe983ec469f290cd4dca4da8b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e9238593a98706af9372fe6d8bd6983c79bf26f59b4cdd58ad6c606f81d50e7a",
+    "robots.txt": "82364233c90703a7bd976357fb216c20140f327c916250f426e51f4e7a41e5f8",
+    "e0962aac847f6467bc1a9e3a1773bfe7.txt": "9b3aa5e5bf6685f9593769822fc30b8dad1e735143a3dcb4e14123dbd7e90730"
+  },
+  "revision": "ab310dbe7250f1d6bcaf08aef254240c0250fbfeae2a1a05195715ae26343f2f"
+}
